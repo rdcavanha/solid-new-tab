@@ -1,0 +1,30 @@
+{
+  "name": "Solid New Tab",
+  "icons": {
+    "16": "assets/icon16.png",
+    "24": "assets/icon24.png",
+    "32": "assets/icon32.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "assets/icon16.png",
+      "24": "assets/icon24.png",
+      "32": "assets/icon32.png"
+    }
+  },
+  "description": "A minimalistic new tab page with customizable solid background color for Chromium browsers",
+  "version": "1.0",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "newtab/newtab.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "options_page": "options/options.html",
+  "manifest_version": 3,
+  "author": "Rodrigo Cavanha",
+  "homepage_url": "https://github.com/rdcavanha/solid-new-tab"
+}

@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  margin: 0;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+button {
+  padding: 8px 16px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid lightgrey;
+  cursor: pointer;
+  font-weight: bold;
+  color: #333;
+}
+
+button:disabled {
+  color: lightgrey;
+  cursor: default;
+}
+
+.options__container {
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 64px;
+  border-radius: 8px;
+  background: white;
+  width: 200px;
+  text-align: center;
+}
+
+.options__color-input {
+  margin: 16px 0;
+  background: white;
+  border: 0;
+  width: 50px;
+  height: 50px;
+}
+
+.options__credits {
+  margin-top: 24px;
+}
