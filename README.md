@@ -32,4 +32,5 @@ You can also set a complete different color for your incognito windows:
 4. Open an incognito window and repeat the steps to choose a color
 
 ## Changelog
+* 1.1 - Slight options UI improvement
 * 1.0 - First release
