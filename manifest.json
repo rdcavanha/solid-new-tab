@@ -15,7 +15,7 @@
     }
   },
   "description": "A minimalistic new tab page with customizable solid background color for Chromium browsers",
-  "version": "1.0",
+  "version": "1.1",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "newtab/newtab.html"
