@@ -1,5 +1,4 @@
 body {
-  font-family: Arial, sans-serif;
   color: #333;
 }
 
@@ -18,13 +17,15 @@ a:hover {
 }
 
 button {
-  padding: 8px 16px;
+  padding: 12px 16px;
   background: white;
-  border-radius: 16px;
+  border-radius: 32px;
   border: 1px solid lightgrey;
   cursor: pointer;
-  font-weight: bold;
-  color: #333;
+  font-family: inherit;
+  color: inherit;
+  font-size: 14px;
+  line-height: 14px;
 }
 
 button:disabled {
