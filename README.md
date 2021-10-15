@@ -4,7 +4,7 @@ Also works on icognito idependently!
 
 Note: this extension only requires the `storage` permission to save the color that you choose. Nothing else is requested. There is not tracking, no ads, nothing.
 
-![image](https://raw.githubusercontent.com/rdcavanha/solid-new-tab/master/assets/screenshot.png)
+![image](https://raw.githubusercontent.com/rdcavanha/solid-new-tab/master/assets/screenshot-options.png)
 
 ## Installing
 This extension is not published on Chrome Web Store as I don't feel like giving 5 dollars to Google just to register as developer.
