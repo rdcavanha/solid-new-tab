@@ -34,3 +34,5 @@ You can also set a complete different color for your incognito windows:
 ## Changelog
 * 1.1 - Slight options UI improvement
 * 1.0 - First release
+
+Inspired by: https://github.com/dandydanny/darknewtab
